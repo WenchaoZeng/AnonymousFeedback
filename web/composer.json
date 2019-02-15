@@ -1,0 +1,10 @@
+{
+	"require": {
+		"swiftmailer/swiftmailer": "v5.4.*"
+	}, 
+	"autoload": {
+		"psr-4": {
+			"": "modules/"
+		}
+	}
+}
